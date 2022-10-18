@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessamad-y&label=Profile%20views&color=0e75b6&style=flat" alt="abdessamad-y" /> </p>
 
 - 💬 Ask me about **Python,data science**
+- I do Full-stack development
 <br>
 
 <h3 align="left">Connect with me:</h3>
