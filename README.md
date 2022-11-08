@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessamad-y&label=Profile%20views&color=0e75b6&style=flat" alt="abdessamad-y" /> </p>
 
-- 💬 Ask me about **Python,data science,Javascript,Django**
+- 💬 Ask me about **Python,Javascript,Django,Java**
 - check my website [https://abdessamadyabes.live/]
 
 <br>
