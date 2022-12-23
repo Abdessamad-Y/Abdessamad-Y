@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessamad</h1>
-<h3 align="center">A Software developer with a passion for machine learning</h3>
+<h3 align="center">A Software engineer with a passion for machine learning</h3>
 <img align = "right"  alt="coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" >
 
 
