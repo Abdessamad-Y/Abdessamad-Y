@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdessamad</h1>
-<h3 align="center">A Software engineer with a passion for machine learning</h3>
+<h3 align="center">A Devops engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessamad-y&label=Profile%20views&color=0e75b6&style=flat" alt="abdessamad-y" /> </p>
 
-- 💬 Ask me about **Python,Javascript,Django,Docker,Devops**
+- 💬 Ask me about **Python, Javascript, Django, Docker, Kubernetes, Graphana, Dynatrace**
 - check my website [https://abdessamad.dev/]
 
 <br>
