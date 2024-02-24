@@ -9,7 +9,6 @@ I'm a DevOps engineer, brings a passion for optimizing software processes conten
 Check out my [website](https://Abdessamad.dev)
 <br />
 
-[![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAbdessamad-Y&countColor=%23dce775&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAbdessamad-Y)
 
 ---
 ### 🧰 Languages and Tools
