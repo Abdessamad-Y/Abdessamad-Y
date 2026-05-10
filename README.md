@@ -1,43 +1,89 @@
+<div align="center">
 
+# Abdessamad Yabes
 
-# 🛵 Abdessamad Yabes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Automating+infrastructure+%C2%B7+Building+on+Azure;Containerizing+%26+orchestrating+at+scale;Exploring+AI+ops+%C2%B7+Keeping+systems+observable;DevOps+%C2%B7+Cloud+%C2%B7+Security+%C2%B7+Reliability)](https://git.io/typing-svg)
 
-**`Digital Craftsman (fullstack + Devops)`**
+[![Portfolio](https://img.shields.io/badge/abdessamadyabes.com-000000?style=flat-square&logo=safari&logoColor=white)](https://abdessamadyabes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-
-I'm a DevOps engineer, brings a passion for optimizing software processes contenarizing and orchestrating. With a strong foundation in coding and adept problem-solving skills, my experience in APM tools like Dynatrace ensures seamless application functionality and continuous performance improvement.Having initially served as a backend engineer with Django, I have a comprehensive understanding of software development, which uniquely informs my approach to DevOps. This background has been instrumental in shaping my perspective and reinforcing my commitment to delivering robust and high-quality software solutions.
-Check out my [website](https://abdessamadyabes.com)
-<br />
-
+</div>
 
 ---
-### 🧰 Languages and Tools
 
+Building scalable cloud infrastructure on Azure — with a focus on containerization, automation, and full-stack observability. My background in backend engineering gives me a developer's eye when designing pipelines and production systems.
 
-<img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Grafana" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<br />
+Currently exploring the intersection of **DevOps** and **AI infrastructure**.
 
-#
+---
 
-### 📊 Stats
+### ☁️ Cloud & infrastructure
 
+`Microsoft Azure` `Azure DevOps` `Azure Kubernetes Service` `Azure Container Registry` `Azure Synapse Analytics` `Terraform` `Bicep` `Linux` `Networking & VPCs`
 
-![Abdessamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdessamad-Y&show_icons=true&theme=blueberry) 
+`AWS` `Amazon EKS` `Amazon ECS` `EC2` `S3` `IAM` `CloudWatch` `Lambda` `VPC` `Route 53` `CloudFormation`
 
+---
+
+### 🐳 Containers & orchestration
+
+`Docker` `Kubernetes` `Helm` `ArgoCD` `Flux CD` `Containerd` `Docker Compose`
+
+---
+
+### 🔁 CI/CD & automation
+
+`Azure Pipelines` `GitHub Actions` `GitLab CI` `Ansible` `Bash` `PowerShell` `Python` `Git`
+
+---
+
+### 🌐 Networking & service mesh
+
+`Nginx` `Traefik` `Istio` `Azure Load Balancer` `Azure Application Gateway` `Ingress Controllers`
+
+---
+
+### 🏗️ IaC & GitOps
+
+`Terraform` `Pulumi` `Ansible` `Bicep` `ArgoCD` `Flux CD` `Helm` `CloudFormation`
+
+---
+
+### 📡 Observability & APM
+
+`Dynatrace` `Prometheus` `Grafana` `Loki` `OpenTelemetry` `ELK Stack`
+
+---
+
+### 🔐 Security & compliance
+
+`Azure Security Center` `Microsoft Defender for Cloud` `RBAC` `Azure Key Vault` `HashiCorp Vault` `Azure Policy` `Network Security Groups` `Zero Trust`
+
+---
+
+### 📦 Data & pipelines
+
+`Azure Data Factory` `Azure Synapse Analytics` `Apache Kafka` `Apache Spark` `Redis` `PostgreSQL` `MongoDB` `Azure Blob Storage` `MinIO`
+
+---
+
+### 🤖 AI & ML ops
+
+`Python` `LangChain` `OpenAI API` `Hugging Face` `MLflow` `Azure AI Services`
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdessamad-Y&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdessamad-Y&theme=default)
+
+</div>
+
+---
+
+<sub>Always learning · Open to collaborate · abdessamadyabes.com</sub>
