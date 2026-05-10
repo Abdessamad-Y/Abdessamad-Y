@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Automating+infrastructure+%C2%B7+Building+on+Azure;Containerizing+%26+orchestrating+at+scale;Exploring+AI+ops+%C2%B7+Keeping+systems+observable;DevOps+%C2%B7+Cloud+%C2%B7+Security+%C2%B7+Reliability)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/abdessamadyabes.com-000000?style=flat-square&logo=safari&logoColor=white)](https://abdessamadyabes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 
 </div>
 
